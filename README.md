@@ -4,7 +4,7 @@
 
 | File | What it is |
 |---|---|
-| `models/dragon.glb` | Felt dragon, static mesh, 2048px texture, 1 unit tall, standing on y = 0 |
+| `models/dragon.glb` | Felt dragon, 2048px texture, 1 unit tall, standing on y = 0, facing +Z. From v4: two nodes, `Body` and its child `Head`, whose origin is the neck pivot, so the game can turn or nod the head |
 | `models/dragon_rigged.glb` | Same dragon with an auto-generated rig (no animations) |
 | `models/tree.glb` | Felt pine tree, static mesh, 1024px texture, 1 unit tall, standing on y = 0 (from v2) |
 | `models/banner.glb` | Felt banner on a pole, static mesh, 1024px texture, 1 unit tall, standing on y = 0 (from v3) |
