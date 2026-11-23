@@ -10,5 +10,6 @@
 | `models/banner.glb` | Felt banner on a pole, static mesh, 1024px texture, 1 unit tall, standing on y = 0 (from v3) |
 | `models/rock_tall.glb` | Painted cardboard rock, tall, static mesh, 1024px texture, 1 unit tall, standing on y = 0 (from v5) |
 | `models/rock_short.glb` | Painted cardboard rock, low and wide, static mesh, 1024px texture, 1 unit wide, 0.69 tall, standing on y = 0 (from v5) |
+| `models/coin.glb` | Gold coin with a crown, 620 vertices, 512px texture, 1 unit across, standing on its edge (thin along Z), bottom at y = 0 (from v6) |
 
 Use a tagged link, e.g. `https://cdn.jsdelivr.net/gh/rissa-ustwo/hoard-assets@v1/models/dragon.glb`.
